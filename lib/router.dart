@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:nursery/screens/auth_screen.dart';
+import 'package:nursery/features/auth/screens/auth_screen.dart';
 
 Route<dynamic> generateRoute(RouteSettings settings) {
   switch (settings.name) {
